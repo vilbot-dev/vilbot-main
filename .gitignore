@@ -1,0 +1,12 @@
+# Build
+/target
+
+# Config
+config.yaml
+
+# Misc
+.DS_Store
+
+# Log
+*.log
+
