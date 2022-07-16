@@ -3,6 +3,7 @@
 
 # Config
 config.yaml
+.env
 
 # Misc
 .DS_Store
